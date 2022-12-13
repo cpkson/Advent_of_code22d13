@@ -1,1 +1,1 @@
-# Advent_of_code22d13
+# Advent of code 2022 day 13
